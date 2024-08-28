@@ -3,5 +3,3 @@ Hello World!
 This is to check if I know how to keep track of stuff.
 
 this is a third line of text.
-
-this is a fourth line of text.
